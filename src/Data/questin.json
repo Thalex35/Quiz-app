@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Hyper Transfer Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "Which CSS property is used to change the text color?",
+    "options": [
+      "font-style",
+      "color",
+      "text-color",
+      "background-color"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Which JavaScript keyword is used to declare a variable that cannot be reassigned?",
+    "options": [
+      "var",
+      "let",
+      "const",
+      "static"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "Which method is used to add an element to the end of a JavaScript array?",
+    "options": [
+      "push()",
+      "pop()",
+      "shift()",
+      "unshift()"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "What does CSS primarily control?",
+    "options": [
+      "The structure of a webpage",
+      "The styling and layout of a webpage",
+      "The database of a website",
+      "The server logic of a website"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "Which React hook is commonly used to manage component state?",
+    "options": [
+      "useEffect",
+      "useContext",
+      "useState",
+      "useRef"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "Which JavaScript method creates a new array containing elements that pass a condition?",
+    "options": [
+      "map()",
+      "filter()",
+      "forEach()",
+      "findIndex()"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Which HTTP method is commonly used to retrieve data from a server?",
+    "options": [
+      "POST",
+      "DELETE",
+      "PUT",
+      "GET"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 9,
+    "question": "What is React primarily used for?",
+    "options": [
+      "Building user interfaces",
+      "Managing databases",
+      "Creating operating systems",
+      "Configuring web servers"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Source Object Network",
+      "JavaScript Online Network",
+      "JSON Object Notation"
+    ],
+    "correctAnswer": 0
+  }
+]
